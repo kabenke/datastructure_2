@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IterableTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=toIter
+comment2.target=void\ printData(Iterable)
+comment3.params=arr\ p
+comment3.target=boolean\ notIn(int[],\ Iterable)
+comment4.params=
+comment4.target=void\ test()
+numComments=5
