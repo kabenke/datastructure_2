@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=dataClasse
+comment1.params=v
+comment1.target=dataClasse(int[])
+comment2.params=f\ g
+comment2.target=int\ compute(simplex,\ TriFunc)
+numComments=3

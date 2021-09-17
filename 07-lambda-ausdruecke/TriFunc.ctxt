@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TriFunc
+comment0.text=\n\ Write\ a\ description\ of\ class\ Trifunktion\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p1\ p2\ p3
+comment1.target=int\ action(int,\ int,\ int)
+numComments=2

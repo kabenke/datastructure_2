@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=IntegerTriFunction
+comment1.params=p1\ P2\ p3
+comment1.target=java.lang.Integer\ apply(java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer)
+numComments=2
